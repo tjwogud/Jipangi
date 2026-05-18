@@ -5,11 +5,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+	"predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "next": "16.2.6",
     "react": "19.2.4",
     "react-dom": "19.2.4"
+  },
+  "homepage": "https://tjwogud.github.io/jipangi/",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
