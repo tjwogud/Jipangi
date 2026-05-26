@@ -1,6 +1,4 @@
 :HL["/_next/static/chunks/0d-pf6~yu~9xd.css","style"]
 :HL["/_next/static/media/Jalnan2-s.p.0wii-mn3mbz9e.otf","font",{"crossOrigin":"","type":"font/otf"}]
-:HL["/_next/static/chunks/0g09y~lqb~9q3.css","style"]
-:HL["./apps/naver_map/icon.png","image"]
-:HL["./apps/kakao_taxi/icon.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"hLPU7DMdQM5Zpny5H8ITj"}
+:HL["/_next/static/chunks/0auu_t27i1ezs.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"p6o5Yx88Y-sbD5Srm5P0q"}
