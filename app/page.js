@@ -60,13 +60,13 @@ export default function Home() {
       <p className={styles.overlay_3}>by 반박E와 I들</p>
       <p className={styles.scroll_down}>↓↓↓ 아래로 내려가 시작하세요</p>
       <div className={styles.grid_container}>
-        {data.map(v => {
+        {data.map(v => (
           <Item
             key={v.id}
             id={v.id}
             data={v.data}
           />
-        })}
+        ))}
       </div>
     </div>
   );
