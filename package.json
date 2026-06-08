@@ -1,18 +1,19 @@
 {
   "name": "jipangi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-	  "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d out --nojekyll --cname jipangi.kro.kr"
   },
   "dependencies": {
     "next": "16.2.6",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-router-dom": "^7.16.0"
   },
   "homepage": "https://jipangi.kro.kr",
   "devDependencies": {
